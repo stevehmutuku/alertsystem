@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "168975934084",
+    "firebase_url": "https://alertsystem-71a4d.firebaseio.com",
+    "project_id": "alertsystem-71a4d",
+    "storage_bucket": "alertsystem-71a4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168975934084:android:5e12f5470db895eb5b18d1",
+        "android_client_info": {
+          "package_name": "com.example.alertsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168975934084-3b7h5q970ocb0434sps0oo1bi2g3vhi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj-NNkHVlIGzhuAD9lkToHk6tQXDI-jv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168975934084-3b7h5q970ocb0434sps0oo1bi2g3vhi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168975934084:android:0e6708a8979118675b18d1",
+        "android_client_info": {
+          "package_name": "com.example.alertsystemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168975934084-3b7h5q970ocb0434sps0oo1bi2g3vhi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj-NNkHVlIGzhuAD9lkToHk6tQXDI-jv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168975934084-3b7h5q970ocb0434sps0oo1bi2g3vhi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
